@@ -12,5 +12,7 @@ Your wireframe and interactions should contain a minimum of 6 screens. You do no
 ## Step 3
 Ask 3 people who would use your music app for feedback. With the feedback, identify a few questions/concerns you have with your wireframes and flow that you would further investigate through more extensive interviewing, prototyping and/or A/B testing if you had more time.
 
+Send all results to interviews@devmounta.in
+
 For more information about wireframing see the following:
 http://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399
